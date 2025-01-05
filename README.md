@@ -15,6 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a **Full-Stack Developer** with over 4 years of hands-on experience in enterprise software development. My expertise spans backend, frontend, and database technologies, and I am passionate about creating impactful and efficient solutions.
+
+### 🚀 About Me
+- 🔭 I’m currently enhancing my skills in **Angular**, **Design Patterns**, and **Software Testing**.
+- 🌱 I’m actively learning new tools and technologies to stay ahead in the rapidly evolving tech industry.
+- 💼 My past experiences include designing and developing scalable systems, refactoring legacy code, and collaborating with cross-functional teams to deliver high-quality software solutions.
+
+### 🛠️ My Tech Stack
+- **Programming Languages**: Java, C++, Python, Perl, TypeScript, JavaScript
+- **Frontend**: HTML5, CSS3, Bootstrap, jQuery
+- **Backend**: Node.js, Django
+- **Databases**: Oracle, SQL Server, MySQL
+- **APIs**: SOAP, RESTful, Google Cloud APIs
+- **Version Control**: Git/GitHub
+- **Other Skills**: SOLID principles, OOP, JSON/XML
+
 ### 🎓 Academic Background
 - **Diploma in Computer Programming** | Algonquin College | Ottawa, ON
 - **B.Sc. in Software Engineering** | Azad University of Tehran | Iran
