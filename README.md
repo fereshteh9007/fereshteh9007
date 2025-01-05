@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/fereshtehrohani](https://linkedin.com/in/fereshtehrohani)
+- **GitHub**: [github.com/fereshteh9007](https://github.com/fereshteh9007)
