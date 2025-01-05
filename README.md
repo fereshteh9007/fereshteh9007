@@ -1,4 +1,4 @@
-## Hi there 👋
+## Fereshteh Rohani
 
 <!--
 **fereshteh9007/fereshteh9007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🎓 Academic Background
+- **Diploma in Computer Programming** | Algonquin College | Ottawa, ON
+- **B.Sc. in Software Engineering** | Azad University of Tehran | Iran
 
 ### 📫 Let's Connect
 - **LinkedIn**: [linkedin.com/in/fereshtehrohani](https://linkedin.com/in/fereshtehrohani)
