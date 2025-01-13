@@ -25,11 +25,12 @@ I am a **Full-Stack Developer** with over 4 years of hands-on experience in ente
 ### 🛠️ My Tech Stack
 - **Programming Languages**: Java, C++, Python, Perl, TypeScript, JavaScript
 - **Frontend**: HTML5, CSS3, Bootstrap, jQuery
-- **Backend**: Node.js, Django
-- **Databases**: Oracle, SQL Server, MySQL
+- **Backend**: Node.js
+- **Databases**: Oracle, SQL Server, MySQL, MongoDB
 - **APIs**: SOAP, RESTful, Google Cloud APIs
-- **Version Control**: Git/GitHub
-- **Other Skills**: SOLID principles, OOP, JSON/XML
+- **Version Control**: Git, GitHub
+- **Tools**: Postman, SoapUI, Figma, JIRA, Zenhub
+- **Operating Systems**: Linux, Windows
 
 ### 🎓 Academic Background
 - **Diploma in Computer Programming** | Algonquin College | Ottawa, ON
